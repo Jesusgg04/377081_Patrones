@@ -2,7 +2,7 @@
 Informe de consultoría de inteligencia de negocios: AVANCE
 Proyecto: Ubicación del próximo centro de distribución en frío de Sabores Nen
 Cliente o audiencia objetivo: Dirección de Operaciones / dueño de Sabores Nen
-Equipo de trabajo: Jesu Luna Garcia
+Equipo de trabajo: Jesús Luna Garcia
 Asignatura: Patrones de comportamiento
 Docente: Guillermo Alejando Chavez 
 Fecha de entrega: 17-11-2026
@@ -11,9 +11,9 @@ Estado del documento: Avance. Incluye las secciones 1 a 4 del informe; las secci
 1. Resumen ejecutivo
 Cliente. Sabores Nen es una empresa de productos congelados (helados y paletas) que surte con camiones refrigerados y neveras a tienditas, abarrotes, tiendas de conveniencia, paleterías y puntos de venta en la calle.
 Situación investigada. La empresa quiere abrir un nuevo centro de distribución en frío. Actualmente, el costo por entrega es alto y parte del producto se derrite durante el traslado, sobre todo en las rutas largas y en temporada de calor.
-Información analizada. Se analizará la ubicación y el tipo de negocios que Sabores Nen puede atender (DENUE, INEGI), junto con datos de población, temperatura y red de carreteras. Cuando la empresa lo permite, se agregaron sus propios datos de entregas y mermas. [Completar cuando haya resultados: número de registros y zona de estudio.]
-Principales hallazgos. [Completar al terminar el análisis: 2 o 3 frases con los resultados más importantes.]
-Decisión que debería tomar el cliente. [Completar: en qué zona instalar el centro, con una opción principal y una alternativa.]
+Información analizada. Se analizará la ubicación y el tipo de negocios que Sabores Nen puede atender (DENUE, INEGI), junto con datos de población, temperatura y red de carreteras. Cuando la empresa lo permite, se agregaron sus propios datos de entregas y mermas. 
+Principales hallazgos. 
+Decisión que debería tomar el cliente. 
 2. Contexto del cliente y objetivo de negocio
 2.1 Descripción del cliente
 Sabores Nen distribuye productos congelados a pequeños comercios y puntos de venta en la calle. Su operación depende de mantener la cadena de frío durante todo el recorrido, desde el centro de distribución hasta la última entrega. Reparte con camiones refrigerados y neveras.
@@ -40,5 +40,4 @@ Las fuentes de la tabla son una propuesta de trabajo y se confirmará cuando se 
 TABLA EN DESARROLLO
 4.2 Justificación de las fuentes
 Pendiente
-
 
